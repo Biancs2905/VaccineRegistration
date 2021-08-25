@@ -1,0 +1,16 @@
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\netcoreapp3.1\VaccineRegistration.exe
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\netcoreapp3.1\VaccineRegistration.deps.json
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\netcoreapp3.1\VaccineRegistration.runtimeconfig.json
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\netcoreapp3.1\VaccineRegistration.runtimeconfig.dev.json
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\netcoreapp3.1\VaccineRegistration.dll
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\netcoreapp3.1\VaccineRegistration.pdb
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.csproj.AssemblyReference.cache
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.Form1.resources
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.csproj.GenerateResource.cache
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.AssemblyInfoInputs.cache
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.AssemblyInfo.cs
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.csproj.CoreCompileInputs.cache
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.dll
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.pdb
+C:\Users\bianc\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\netcoreapp3.1\VaccineRegistration.genruntimeconfig.cache
